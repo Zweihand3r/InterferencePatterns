@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>ConcentricCircles.qml</file>
+        <file>Circle.qml</file>
+        <file>MenuButton.qml</file>
+        <file>MenuController.qml</file>
+        <file>CIrcleSelection.qml</file>
+        <file>Tabutton.qml</file>
+        <file>EmitterController.qml</file>
+        <file>Radiobutton.qml</file>
+        <file>Button_.qml</file>
+        <file>ColorDial.qml</file>
+        <file>Label_.qml</file>
+        <file>Slider_.qml</file>
+        <file>GeneralSettings.qml</file>
+        <file>SegmentControl.qml</file>
+        <file>NumberSelection.qml</file>
+        <file>Prep.qml</file>
+        <file>PlayStop.qml</file>
+        <file>DebugBackground.qml</file>
+        <file>ColorGradientPreview.qml</file>
+        <file>DropdownButton.qml</file>
+        <file>Slider_Shape.qml</file>
+    </qresource>
+</RCC>
